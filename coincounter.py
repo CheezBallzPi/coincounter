@@ -1,9 +1,3 @@
-currq = 0
-currd = 0
-currn = 0
-currp = 0
-count = 0
-
 total = input("Enter total value: ")
 
 ifprint = input("Print results? (1 or 0): ")
